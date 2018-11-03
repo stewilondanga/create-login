@@ -96,12 +96,13 @@ body {
   margin: 0 auto;
 }
 
-/*.container:before, .container:after {
+.container:before, .container:after {
   content: "";
   display: block;
   clear: both;
 }
-.container .info {
+
+/*.container .info {
   margin: 50px auto;
   text-align: center;
 }
