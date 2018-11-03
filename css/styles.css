@@ -85,10 +85,11 @@ body {
   text-decoration: none;
 }
 
-/*.form .register-form {
+.form .register-form {
   display: none;
 }
-.container {
+
+/*.container {
   position: relative;
   z-index: 1;
   max-width: 300px;
