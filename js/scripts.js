@@ -6,3 +6,7 @@ var navigate = (function() {
 		$('.' + dataName).toggle();
 	});
 })();
+
+$('.message a').click(function(){
+   $('form').animate({height: "toggle", opacity: "toggle"}, "slow");
+});
