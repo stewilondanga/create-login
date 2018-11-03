@@ -21,11 +21,11 @@ body {
   height: 2.5em;
 }
 
-/*.my_social a img {
+.my_social a img {
   height: 1.5em;
 }
 
-@import url(https://fonts.googleapis.com/css?family=Roboto:300);
+/*@import url(https://fonts.googleapis.com/css?family=Roboto:300);
 
 .login-page {
   width: 360px;
