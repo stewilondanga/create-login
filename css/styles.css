@@ -115,11 +115,12 @@ body {
   color: #1a1a1a;
 }
 
-/*.container .info span {
+.container .info span {
   color: #4d4d4d;
   font-size: 12px;
 }
-.container .info span a {
+
+/*.container .info span a {
   color: #000000;
   text-decoration: none;
 }
