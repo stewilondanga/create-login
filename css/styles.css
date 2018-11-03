@@ -125,11 +125,11 @@ body {
   text-decoration: none;
 }
 
-/*.container .info span .fa {
+.container .info span .fa {
   color: #EF3B3A;
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
