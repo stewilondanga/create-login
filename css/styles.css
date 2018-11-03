@@ -80,11 +80,12 @@ body {
   font-size: 12px;
 }
 
-/*.form .message a {
+.form .message a {
   color: #4CAF50;
   text-decoration: none;
 }
-.form .register-form {
+
+/*.form .register-form {
   display: none;
 }
 .container {
